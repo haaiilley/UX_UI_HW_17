@@ -1,0 +1,25 @@
+#head {
+background-color: RGB(255,255,251);
+font: Marvelous Sans Demo;
+font-size: 36;
+text-decoration-color: C8A559;
+display: grid;
+min-height: 100px;
+grid-template-columns: 14%, 14%, 14%, 14%,  14%;
+}
+
+#hero {
+background-color: RGB(255,255,251);
+min-height: 300px;
+
+}
+#body {
+    background-color: RGB(239,238,233);
+
+}
+.headArea {
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    position: relative;
+}
